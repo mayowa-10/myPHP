@@ -1,4 +1,4 @@
-<?php
+ <?php
    // $users = array("basit" , "abdul" , "mayowa");
     $users = ["basit" , "abdul" , "mayowa"];
      echo "$users[0] <br>";
